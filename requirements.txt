@@ -1,0 +1,9 @@
+flask
+torch
+torchaudio
+torchvision
+librosa
+pandas
+numpy
+matplotlib
+sklearn
